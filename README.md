@@ -1,2 +1,2 @@
-# C-practice
+# CPP-practice
 C++ practice
